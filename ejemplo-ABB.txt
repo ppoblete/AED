@@ -1,4 +1,5 @@
 graph G {
+ranksep="0.3"
 
  node [shape=circle] 15 20 30 35 42 65 72 81 90 95
 node [shape=square,height="0.3",label=""] a b c d e f g h i j k
