@@ -301,7 +301,7 @@ draw[thick] (5,0.5) circle [radius=0.3];
 
 
 \backslash
-node at (5,0.5) {34};
+node at (5,0.5) {27};
 \end_layout
 
 \begin_layout Plain Layout
